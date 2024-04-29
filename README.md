@@ -39,6 +39,4 @@ const response = {
 <p align="center">
     <a href="https://www.instagram.com/aliimani2006/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
     <a href="https://github.com/aliimaniDev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
-    <a href="#"><img src="icons8-linkedin.svg" alt="LinkedIn"></a>
-    <a href="https://t.me/aliimaniDev"><img src="icons8-telegram.svg" alt="Telegram"></a>
 </p>
